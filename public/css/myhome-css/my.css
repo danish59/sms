@@ -1,0 +1,9 @@
+
+.my-error-class {
+    font-size: smaller !important;
+    font-style: italic !important;
+    color:#900 !important;
+}
+.my-valid-class {
+    color:green !important;
+}
